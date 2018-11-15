@@ -1,6 +1,7 @@
-# assignment
+# Graph Coloring Research Methodology assignment
 
 Graph Coloring Algorithm
+
 Introduction
 
 Graph Coloring problem is to assign colors to certain elements of a graph subject to certain constraints.
