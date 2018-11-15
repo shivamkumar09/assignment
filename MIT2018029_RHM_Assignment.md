@@ -52,19 +52,32 @@ The graph coloring problem has huge number of applications.
 Result
 
 // Sample Input Output Format
+
 stdin :
+
 Enter the number of nodes: 4
+
 Enter Adjacency Matrix:
 0 1 0 1
+
 1 0 1 0
+
 0 1 0 1
+
 1 0 1 0
+
 stdout :
+
 Possible Solutions are
+
 1 2 1 2 
+
 2 1 2 1 
+
 The chromatic number is 2
+
 The total number of solutions is 2 
+
 
 N.B – Here chromatic number denotes the minimum number of color needed to color the vertex of a Graph, and the total number of solutions denotes all possible ways of assigning colors to the vertex of a graph.
 
