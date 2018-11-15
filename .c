@@ -1,3 +1,7 @@
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -17,7 +21,7 @@ int main()
 	int j;
 	int tmp;
 
-	printf("\nEnter the number of nodes: " );
+	printf("\nEnter the number of vertex: " );
 
 	scanf("%d", &n);
 
@@ -95,3 +99,21 @@ void nextValue(int k)
 		}
 	}
 }
+
+stdin :
+
+Enter the number of nodes: 4
+Enter Adjacency Matrix:
+0 1 0 1
+1 0 1 0
+0 1 0 1
+1 0 1 0
+	
+stdout :
+
+Possible Solutions are
+1 2 1 2 
+2 1 2 1 
+
+The chromatic number is 2
+The total number of solutions is 2
