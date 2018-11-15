@@ -1,4 +1,4 @@
-# Graph Coloring Research Methodology assignment
+# Graph Coloring Research Methodology assignment document
 
 Graph Coloring Algorithm
 
